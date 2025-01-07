@@ -109,3 +109,11 @@ Este é o meu portfólio: https://rodrigojunqueiradev.github.io/index-en.html
     'Fizz buzz is a group word game for children to teach them about division. Players take turns to count incrementally, replacing any number divisible by three with the word "fizz", and any number divisible by five with the word "buzz", and any number divisible by both three and five with the word "fizzbuzz".'
 
 ---
+
+14. Crie uma variável com valor inicial 0, enquanto o valor dessa variável for igual ou menor que 10, exiba em tela o próprio valor da variável. A cada exercução a mesma deve ter seu valor atualizado incrementando em 1 unidade.
+
+---
+
+15. Crie uma lista de compras de supermercado com 8 itens e lista individualmente cada um dos itens dessa lista.
+
+---
