@@ -117,3 +117,50 @@ Este é o meu portfólio: https://rodrigojunqueiradev.github.io/index-en.html
 15. Crie uma lista de compras de supermercado com 8 itens e lista individualmente cada um dos itens dessa lista.
 
 ---
+
+16. Desenvolva um programa que solicite um valor de início e um valor de fim, exibindo em tela a contagem dos números dentro desse intervalo.
+
+---
+
+17. Crie um programa que exiba a contagem de 0 a 20 exibindo apenas os número pares.
+
+---
+
+18. Crie um programa que realiza a progressão aritimética de n elementos, com o primeiro termo, a razão e a quantidade n de elementos definidos pelo usuário.  
+    Desafio: Armazene a PA em uma lista.
+
+---
+
+19. Desenvolva um código que exiba em tela a tabuada de um número fornecido pelo usuário:
+
+---
+
+20. Crie um programa que realize a contagem de 1 até 100 usando apenas número ímpares, ao final do processo exiba em tela quantos números ímpares foram encontrados nesse intervalo, assim como a soma deles.
+
+---
+
+21. Crie um programa que pede ao usuário um número qualquer e em seguido retorne se esse número é primo ou não.
+
+---
+
+22. Faça um Programa que peça a temperatura em graus Fahrenheit, transforme e mostre a temperatura em graus Celsius.  
+    Obs: C = 5 \* ((F-32) / 9).
+
+---
+
+23. Faça um Programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. Calcule e mostre o total do seu salário no referido mês, sabendo-se que são descontados 11% para o Imposto de Renda, 8% para o INSS e 5% para o sindicato, faça um programa que nos dê:  
+    a. salário bruto.  
+    b. quanto pagou ao INSS.  
+    c. quanto pagou ao sindicato.  
+    d. o salário líquido.  
+    e. calcule os descontos e o salário líquido
+
+---
+
+24. Faça um Programa que verifique se uma letra digitada é vogal ou consoante.
+
+---
+
+25. Faça um Programa que leia três números e mostre o maior, o menor e crie uma lista em ordem crescente deles.
+
+---
