@@ -18,7 +18,7 @@ Eu uso este repositório para organizar exercícios realizados na linguagem Pyth
 Todos os exercícios daqui foram coletados em diversos tipos de materiais, como livros, páginas na internet, cursos etc., e contribuem para os meus conhecimentos na linguagem.
 Os exercícios serão listados abaixo em ambas linguagens, conforme a origem.
 
-Este é o meu portfólio: https://rodrigojunqueiradev.github.io/index-en.html
+Este é o meu portfólio: https://rodrigojunqueiradev.github.io/index.html
 
 ---
 
