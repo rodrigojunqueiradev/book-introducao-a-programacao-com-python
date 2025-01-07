@@ -79,3 +79,33 @@ Este é o meu portfólio: https://rodrigojunqueiradev.github.io/index-en.html
    c. Ordene a lista criada em ordem alfabética.
 
 ---
+
+9. Crie um programa que peça o nome, a idade, a altura e o peso de uma pessoa, depois calcule o IMC.  
+   Obs: IMC = peso / altura ao quadrado
+
+---
+
+10. Band Name Generator Project  
+    a. Create a greeting for your program.  
+    b. Ask the user for the city that they grew up in and store it in a variable.  
+    c. Ask the user for the name of a pet and store it in a variable.  
+    d. Combine the name of their city and pet and show them their band name.
+
+---
+
+11. Tip Calculator  
+    Create a program that asks the user o total of the bill, how many people will split and the percentage of the tip.  
+    The program will divide the bill for the people and calculate how much each person will pay.  
+    Show the result with 2 decimal places.
+
+---
+
+12. Create a rock, paper, scissors game againts the computer.
+
+---
+
+13. Create a Fizz Buzz game with the numbers 1 to 100.  
+    Wikipedia:  
+    'Fizz buzz is a group word game for children to teach them about division. Players take turns to count incrementally, replacing any number divisible by three with the word "fizz", and any number divisible by five with the word "buzz", and any number divisible by both three and five with the word "fizzbuzz".'
+
+---
