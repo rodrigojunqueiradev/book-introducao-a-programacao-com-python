@@ -70,12 +70,12 @@ Este é o meu portfólio: https://rodrigojunqueiradev.github.io/index-en.html
 
 ---
 
-8. Crie um dicionário para as frutas e sua respectivas quantidades e depois faça o que se pede:
-   Apples, quantidade 5
-   Oranges, quantidade 8
-   Banana, quantidade 13
-   a. Converta o dicionário em uma lista de frutas;
-   b. Adicione a essa lista a fruta 'pears';
+8. Crie um dicionário para as frutas e sua respectivas quantidades e depois faça o que se pede:  
+   Apples, quantidade 5  
+   Oranges, quantidade 8  
+   Banana, quantidade 13  
+   a. Converta o dicionário em uma lista de frutas;  
+   b. Adicione a essa lista a fruta 'pears';  
    c. Ordene a lista criada em ordem alfabética.
 
 ---
