@@ -164,3 +164,8 @@ Este é o meu portfólio: https://rodrigojunqueiradev.github.io/index.html
 25. Faça um Programa que leia três números e mostre o maior, o menor e crie uma lista em ordem crescente deles.
 
 ---
+
+26. Qual letra aparece mais vezes na frase abaixo?  
+    frase = 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia cum nam deserunt fugit, repellat nihil voluptates rerum at tempore quisquam perferendis molestiae, a aperiam deleniti ea odio commodi natus sapiente.'
+
+---
