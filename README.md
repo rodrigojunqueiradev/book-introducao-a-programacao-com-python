@@ -191,3 +191,50 @@ Score less than or equal to 70 -> Fail.
 student_grades =
 
 ---
+
+28. Escreva um programa que solicite a velocalidade de um usuário.
+    Caso a velocidade ultrapasse 120 km/h, informe que o usuário foi multado e que o valor da múlta é: R$ 150 + R$50 por km acima de 120 km/h.
+
+---
+
+29. Escreva um programa de aprovação de empréstimos.  
+    O programa deve solicitar o valor do empréstimo, o salário da pessoa e a quantidade de anos a pagar.  
+    O valor da prestação mensal não pode ser superior a 30% do salário.  
+    O programa deve retornar se o empréstimo foi aprovado e o valor da prestação.  
+    Obs: Não tem cobrança de juros.
+
+---
+
+30. Escreva um programa que calcule o preço a pagar pelo fornecimento de energia elétrica.
+    Pergunte ao usuário a quantidade de kWh consumida e o tipo de estabelicimento (R para residências, I para indústrias e C para comércios).
+    Calcule o preço a pagar conforme a tabela:
+
+| Tipo | kWh           | Preço   |
+| ---- | ------------- | ------- |
+| R    | Até 500       | R$ 0,40 |
+| R    | Acima de 500  | R$ 0,65 |
+| C    | Até 1000      | R$ 0,55 |
+| C    | Acima de 1000 | R$ 0,60 |
+| I    | Até 5000      | R$ 0,55 |
+| I    | Acima de 5000 | R$ 0,60 |
+
+---
+
+31. Escreva um programa para uma calculadora com as 4 operações matemática básicas e a opção de "Sair".  
+    O usuário poderá utilizar a calcular até que a opção de "Sair" seja selecionada.
+
+---
+
+32. Crie um programa que solicite as notas durante um período letivo e a quantidade de provas realizadas e armazene essas notas em uma lista. Depois o programa deve calcular a média aritmética simples dessas notas
+
+---
+
+33. Faça um rograma que leia duas listas e que gere uma terceira lista com os elementos das duas primeiras. Exiba a nova lista.
+
+---
+
+34. Faça um programa que percorra duas listas com números e gere uma terceira sem elementos repetidos.  
+    lista1 = [10, 20, 30, 40, 50]  
+    lista2 = [1, 10, 100, 1000]
+
+--
