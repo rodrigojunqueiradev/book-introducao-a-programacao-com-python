@@ -183,10 +183,10 @@ student_scores = {
 
 By the end of your program, you should have a new dictionary called student_grades that should contain student names as keys and their assessed grades for values.  
 The grade is:  
-Score >= 91 -> Outstanding;  
-Score >= 81 -> Exceeds Expectations;  
-Score >= 71 -> Acceptable;  
-Score <= 70 -> Fail.
+Score greater than or equal to 91 -> Outstanding;  
+Score greater than or equal to 81 -> Exceeds Expectations;  
+Score greater than or equal to 71 -> Acceptable;  
+Score less than or equal to 70 -> Fail.
 
 student_grades =
 
