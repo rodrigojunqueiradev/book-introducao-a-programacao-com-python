@@ -169,3 +169,25 @@ Este é o meu portfólio: https://rodrigojunqueiradev.github.io/index.html
     frase = 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia cum nam deserunt fugit, repellat nihil voluptates rerum at tempore quisquam perferendis molestiae, a aperiam deleniti ea odio commodi natus sapiente.'
 
 ---
+
+27. You have access to a database of student_scores in the format of a dictionary. The keys in student_scores are the names of the students and the values are their exam scores.  
+    Write a program that converts their scores to grades.
+
+student_scores = {  
+ 'Harry': 88,  
+ 'Ron': 78,  
+ 'Hermione': 95,  
+ 'Draco': 75,  
+ 'Neville': 60  
+}
+
+By the end of your program, you should have a new dictionary called student_grades that should contain student names as keys and their assessed grades for values.  
+The grade is:  
+Score >= 91 -> Outstanding;  
+Score >= 81 -> Exceeds Expectations;  
+Score >= 71 -> Acceptable;  
+Score <= 70 -> Fail.
+
+student_grades =
+
+---
